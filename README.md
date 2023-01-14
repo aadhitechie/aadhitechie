@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/nitishk72/image/upload/v1606933035/nstack_in/blog/flutter/flutter-banner.png)]
+![MasterHead](https://res.cloudinary.com/nitishk72/image/upload/v1606933035/nstack_in/blog/flutter/flutter-banner.png)
 <h1 align="center">Hi 👋, I'm ADARSH M</h1>
 <h3 align="center">A self taught flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
