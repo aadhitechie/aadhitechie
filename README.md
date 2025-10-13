@@ -26,5 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhitechie&show_icons=true&locale=en&layout=compact" alt="aadhitechie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadhitechie&show_icons=true&locale=en" alt="aadhitechie" /></p>
 
