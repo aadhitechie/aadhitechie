@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://aadhitechie.github.io/personal/](https://aadhitechie.github.io/personal/)
-
-- 💬 Ask me about **flutter,dart,firebase,javascript**
+- 💬 Ask me about **Python,ML,DL,AI,GenAI,Flutter**
 
 - 📫 How to reach me **adarshadhu47167@gmailcom**
 
